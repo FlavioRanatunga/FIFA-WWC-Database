@@ -1,0 +1,25 @@
+key_id,year,group_name,team_name,played,wins,draws,losses,points,qualified
+1,2019, A,France,3,3,0,0,9,Q
+2,2019, A,Norway,3,2,0,1,6,Q
+3,2019, A,Nigeria,3,1,0,2,3,Q
+4,2019, A,South Korea,3,0,0,3,0,N
+5,2019, B,Germany,3,3,0,0,9,Q
+6,2019, B,Spain,3,1,1,1,4,Q
+7,2019, B,China,3,1,1,1,4,Q
+8,2019, B,South Africa,3,0,0,3,0,N
+9,2019, C,Italy,3,2,0,1,6,Q
+10,2019, C,Australia,3,2,0,1,6,Q
+11,2019, C,Brazil,3,2,0,1,6,Q
+12,2019, C,Jamaica,3,0,0,3,0,N
+13,2019, D,England,3,3,0,0,9,Q
+14,2019, D,Japan,3,1,1,1,4,Q
+15,2019, D,Argentina,3,0,2,1,2,N
+16,2019, D,Scotland,3,0,1,2,1,N
+17,2019, E,Netherlands,3,3,0,0,9,Q
+18,2019, E,Canada,3,2,0,1,6,Q
+19,2019, E,Cameroon,3,1,0,2,3,Q
+20,2019, E,New Zealand,3,0,0,3,0,N
+21,2019, F,USA,3,3,0,0,9,Q
+22,2019, F,Sweden,3,2,0,1,6,Q
+23,2019, F,Chile,3,1,0,2,3,N
+24,2019, F,Thailand,3,0,0,3,0,N

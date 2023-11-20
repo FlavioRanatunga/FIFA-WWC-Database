@@ -1,0 +1,534 @@
+playerID,teamID,playerNo,Player,Age,Team,Pos.,Club,Caps,Goals
+1,1,1,Vanina Correa,39,Argentina,GK,Rosario Central,20,0
+2,1,2,Adriana Sachs,29,Argentina,DF,Santos,34,8
+3,1,3,Eliana Stbile,29,Argentina,DF,Santos,19,3
+4,1,4,Julieta Cruz,27,Argentina,DF,Boca Juniors,62,5
+5,1,5,Vanesa Santana,32,Argentina,MF,Sporting Huelva,16,0
+6,1,6,Aldana Cometti,27,Argentina,DF,Madrid CFF,64,6
+7,1,7,Romina Nez,29,Argentina,MF,UAI Urquiza,4,0
+8,1,8,Daiana Falfn,22,Argentina,MF,UAI Urquiza,11,2
+9,1,9,Paulina Gramaglia,20,Argentina,FW,Red Bull Bragantino,23,3
+10,1,10,Dalila Ipplito,21,Argentina,MF,Parma,43,7
+11,1,11,Yamila Rodrguez,25,Argentina,FW,Palmeiras,77,39
+12,1,12,Lara Esponda,17,Argentina,GK,River Plate,49,0
+13,1,13,Sophia Braun,23,Argentina,DF,Len,3,0
+14,1,14,Miriam Mayorga,33,Argentina,DF,Boca Juniors,0,0
+15,1,15,Florencia Bonsegundo,30,Argentina,FW,Madrid CFF,1,0
+16,1,16,Lorena Bentez,24,Argentina,MF,Palmeiras,30,3
+17,1,17,Camila Gmez Ares,28,Argentina,MF,Universidad de Concepcin,71,1
+18,1,18,Gabriela Chvez,34,Argentina,DF,Estudiantes (BA),18,4
+19,1,19,Mariana Larroquette,30,Argentina,FW,Orlando Pride,18,0
+20,1,20,Chiara Singarella,19,Argentina,DF,South Alabama Jaguars,12,0
+21,1,21,rica Lonigro,29,Argentina,FW,Rosario Central,6,0
+22,1,22,Estefana Banini,33,Argentina,FW,Atltico Madrid,22,0
+23,1,23,Abigal Chaves,26,Argentina,GK,Huracn,12,0
+24,2,1,Lydia Williams,35,Australia,GK,Brighton & Hove Albion,102,0
+25,2,2,Courtney Nevin,21,Australia,DF,Leicester City,23,0
+26,2,3,Aivi Luik,38,Australia,DF,BK Hcken,43,1
+27,2,4,Clare Polkinghorne,34,Australia,DF,VittsjÃ¶ GIK,157,16
+28,2,5,Cortnee Vine,25,Australia,FW,Sydney FC,17,3
+29,2,6,Clare Wheeler,25,Australia,MF,Everton,14,0
+30,2,7,Steph Catley (vice-captain),29,Australia,DF,Arsenal,110,3
+31,2,8,Alex Chidiac,24,Australia,MF,Racing Louisville,27,2
+32,2,9,Caitlin Foord,28,Australia,FW,Arsenal,109,29
+33,2,10,Emily van Egmond,30,Australia,MF,San Diego Wave,128,30
+34,2,11,Mary Fowler,20,Australia,FW,Manchester City,37,10
+35,2,12,Teagan Micah,25,Australia,GK,RosengÃ¥rd,14,0
+36,2,13,Tameka Yallop,32,Australia,MF,Brann,113,12
+37,2,14,Alanna Kennedy,28,Australia,DF,Manchester City,109,8
+38,2,15,Clare Hunt,24,Australia,DF,Western Sydney Wanderers,6,0
+39,2,16,Hayley Raso,28,Australia,FW,Manchester City,71,12
+40,2,17,Kyah Simon,32,Australia,FW,Tottenham Hotspur,111,29
+41,2,18,Mackenzie Arnold,29,Australia,GK,West Ham United,35,0
+42,2,19,Katrina Gorry,30,Australia,MF,VittsjÃ¶ GIK,94,17
+43,2,20,Sam Kerr (captain),29,Australia,FW,Chelsea,121,63
+44,2,21,Ellie Carpenter,23,Australia,DF,Lyon,62,3
+45,2,22,Charlotte Grant,21,Australia,DF,VittsjÃ¶ GIK,18,1
+46,2,23,Kyra Cooney-Cross,21,Australia,MF,Hammarby IF,28,0
+47,3,1,Brbara,35,Brazil,GK,Flamengo,21,0
+48,3,2,Antnia,29,Brazil,DF,Levante,0,0
+49,3,3,Kathellen,27,Brazil,DF,Real Madrid,8,0
+50,3,4,Rafaelle Souza,32,Brazil,DF,Arsenal,30,0
+51,3,5,Luana,30,Brazil,MF,Corinthians,31,2
+52,3,6,Tamires,35,Brazil,DF,Corinthians,16,2
+53,3,7,Andressa Alves,30,Brazil,FW,Roma,2,0
+54,3,8,Ana Vitria,23,Brazil,MF,Benfica,7,1
+55,3,9,Debinha,31,Brazil,FW,Kansas City Current,1,0
+56,3,10,Marta,37,Brazil,FW,Orlando Pride,29,13
+57,3,11,Adriana,26,Brazil,MF,Orlando Pride,38,56
+58,3,12,Letcia Izidoro,28,Brazil,GK,Corinthians,6,1
+59,3,13,Bruninha,21,Brazil,DF,NJ/NY Gotham FC,9,0
+60,3,14,Lauren,20,Brazil,DF,Madrid CFF,28,2
+61,3,15,Duda Sampaio,22,Brazil,MF,Corinthians,13,6
+62,3,16,Bia Zaneratto,29,Brazil,FW,Palmeiras,6,0
+63,3,17,Ary Borges,23,Brazil,MF,Racing Louisville,28,1
+64,3,18,Geyse,25,Brazil,FW,Barcelona,21,9
+65,3,19,Mnica,36,Brazil,DF,Madrid CFF,11,0
+66,3,20,Angelina,23,Brazil,MF,OL Reign,7,0
+67,3,21,Kerolin,23,Brazil,MF,North Carolina Courage,12,0
+68,3,22,Camila,22,Brazil,GK,Santos,15,3
+69,3,23,Gabi Nunes,26,Brazil,FW,Madrid CFF,2,0
+70,4,1,Annette,25,Cameroon,GK,Shanghai Shengli,50,0
+71,4,2,Christine,19,Cameroon,CB,Yzeure,63,10
+72,4,3,Ajara,32,Cameroon,RM,Vålerenga,53,15
+73,4,4,Yvonne,27,Cameroon,RWB,Strasbourg,40,5
+74,4,6,Estelle,21,Cameroon,CB,Arna-Bjørnar,60,3
+75,4,7,Gabrielle,20,Cameroon,LM,Sky Blue FC,42,7
+76,4,8,Raissa,33,Cameroon,CM,Granadilla,60,1
+77,4,10,Jeannette,27,Cameroon,CM,Saint-Malo,128,49
+78,4,11,Aurelle,29,Cameroon,CB,ijon,38,1
+79,4,12,Claudine,21,Cameroon,LWB,Guingamp,4,0
+80,4,19,Marlyse,20,Cameroon,CF,Nancy,31,1
+81,4,13,CharlÃ¨ne,26,Cameroon,MF,Louves Miniproff ,43,5
+82,4,17,GaÃ«lle,25,Cameroon,FW,Beşiktaş,38,0
+83,4,18,Henriette,30,Cameroon,FW,San Diego Wave,35,0
+84,5,1,Kailen Sheridan,28,Canada,GK,Houston Dash,96,2
+85,5,2,Allysha Chapman,34,Canada,DF,Chelsea,131,4
+86,5,3,Kadeisha Buchanan,27,Canada,DF,Tottenham Hotspur,89,4
+87,5,4,Shelina Zadorsky,30,Canada,DF,OL Reign,89,5
+88,5,5,Quinn,27,Canada,MF,Reading,73,10
+89,5,6,Deanne Rose,24,Canada,FW,Juventus,50,3
+90,5,7,Julia Grosso,22,Canada,MF,Manchester United,37,1
+91,5,8,Jayde Riviere,22,Canada,DF,OL Reign,64,16
+92,5,9,Jordyn Huitema,22,Canada,FW,Paris Saint-Germain,117,8
+93,5,10,Ashley Lawrence,28,Canada,DF,Kristianstads DFF,18,4
+94,5,11,Evelyne Viens,26,Canada,FW,Portland Thorns,323,190
+95,5,12,Christine Sinclair (captain),40,Canada,FW,Houston Dash,221,20
+96,5,13,Sophie Schmidt,35,Canada,MF,Lyon,25,3
+97,5,14,Vanessa Gilles,27,Canada,DF,Houston Dash,90,13
+98,5,15,Nichelle Prince,28,Canada,FW,Washington Spirit,36,1
+99,5,16,Gabrielle Carle,24,Canada,DF,Chelsea,115,19
+100,5,17,Jessie Fleming,25,Canada,MF,Arsenal,13,0
+101,5,18,Sabrina D'Angelo,30,Canada,GK,Manchester United,96,28
+102,5,19,Adriana Leon,30,Canada,FW,Benfica,19,1
+103,5,20,Clo Lacasse,30,Canada,FW,USC Trojans,6,0
+104,5,21,Simi Awujo,19,Canada,MF,Torreense,0,0
+105,5,22,Lysianne Proulx,24,Canada,GK,Penn State Nittany Lions,2,0
+106,5,23,Olivia Smith,18,Canada,MF,Paris Saint-Germain,21,0
+107,6,1,Christiane,25,Chile,GK,Zaragoza,13,2
+108,6,2,RocÃ­o,23,Chile,RB,Rayo Vallecano,15,4
+109,6,3,Carla,27,Chile,CB,Sevilla,23,9
+110,6,4,Francisca,24,Chile,LB,Sevilla,2,0
+111,6,8,Karen,31,Chile,DM,3B da Amazônia,7,0
+112,6,9,MarÃ­a JosÃ©,22,Chile,CF,Sporting Huelva,20,9
+113,6,10,Yanara,32,Chile,CM,Colo-Colo,21,3
+114,6,11,Yessenia,27,Chile,CM, Córdoba,21,3
+115,6,18,Camila,21,Chile,CB,Slavia Praha,11,0
+116,6,20,Daniela,25,Chile,RM,Colo-Colo,4,0
+117,6,21,Rosario,35,Chile,LM,Slavia Praha,21,12
+118,6,7,MarÃ­a JosÃ©,24,Chile,FW,Curicó Unido,3,0
+119,6,13,Javiera,26,Chile,FW,Shanghai Shengli,34,0
+120,7,1,Zhu Yu,25,China,GK,Paris Saint-Germain,105,12
+121,7,2,Li Mengwen,28,China,DF,Jiangsu,7,0
+122,7,3,Dou Jiaxing,23,China,DF,Shanghai Shengli,59,0
+123,7,4,Wang Linlin,22,China,DF,Wuhan Jianghan University,75,5
+124,7,5,Wu Haiyan,30,China,DF,Shanghai Shengli,66,5
+125,7,6,Zhang Xin,31,China,MF,Racing Louisville,11,1
+126,7,7,Wang Shuang,28,China,FW,Wuhan Jianghan University,50,15
+127,7,8,Yao Wei,25,China,MF,Celtic,69,13
+128,7,9,Shen Mengyu,21,China,MF,Wuhan Jianghan University,32,16
+129,7,10,Zhang Rui (vice-captain),34,China,MF,Wuhan Jianghan University,38,10
+130,7,11,Wang Shanshan (captain),33,China,FW,Jiangsu,71,8
+131,7,12,Xu Huan,24,China,GK,Levante Las Planas,2,0
+132,7,13,Yang Lina,29,China,MF,Wuhan Jianghan University,10,0
+133,7,14,Lou Jiahui,32,China,FW,Meizhou Huijun,5,0
+134,7,15,Chen Qiaozhu,23,China,DF,Wuhan Jianghan University,18,1
+135,7,16,Yao Lingwei,27,China,MF,Canberra United,5,0
+136,7,17,Wu Chengshu,26,China,MF,Shanghai Shengli,26,6
+137,7,18,Tang Jiali,28,China,FW,Grasshoppers,21,11
+138,7,19,Zhang Linyan,22,China,MF,Shanghai Shengli,8,0
+139,7,20,Xiao Yuyi,27,China,FW,Wuhan Jianghan University,11,0
+140,7,21,Gu Yasha,32,China,MF,Beijing,5,0
+141,7,22,Pan Hongyan,18,China,GK,Changchun Dazhong Zhuoyue,22,11
+142,7,23,Gao Chen,30,China,DF,Manchester United,13,0
+143,8,1,Mary Earps,30,England,GK,Barcelona,34,1
+144,8,2,Lucy Bronze,31,England,DF,Chelsea,101,12
+145,8,3,Niamh Charles,24,England,DF,Barcelona,40,2
+146,8,4,Keira Walsh,26,England,MF,Manchester City,60,2
+147,8,5,Alex Greenwood,29,England,DF,Chelsea,86,21
+148,8,6,Millie Bright (captain),29,England,DF,Chelsea,90,24
+149,8,7,Lauren James,21,England,FW,Bayern Munich,215,43
+150,8,8,Georgia Stanway,24,England,MF,Aston Villa,15,9
+151,8,9,Rachel Daly,31,England,FW,Manchester United,139,34
+152,8,10,Ella Toone,23,England,MF,Manchester City,144,59
+153,8,11,Lauren Hemp,22,England,FW,Aston Villa,7,0
+154,8,12,Jordan Nobbs,30,England,MF,Aston Villa,55,4
+155,8,13,Hannah Hampton,22,England,GK,Arsenal,97,9
+156,8,14,Lotte Wubben-Moy,24,England,DF,Manchester City,10,1
+157,8,15,Esme Morgan,22,England,DF,Chelsea,7,0
+158,8,16,Jess Carter,25,England,DF,Manchester City,39,3
+159,8,17,Laura Coombs,32,England,MF,Manchester City,22,0
+160,8,18,Chloe Kelly,25,England,FW,Tottenham Hotspur,1,0
+161,8,19,Bethany England,29,England,FW,Manchester United,96,6
+162,8,20,Katie Zelem,27,England,MF,Manchester City,15,3
+163,8,21,Ellie Roebuck,23,England,GK,Brighton & Hove Albion,16,4
+164,8,22,Katie Robinson,20,England,FW,Manchester United,0,0
+165,8,23,Alessia Russo,24,England,FW,Guingamp,3,0
+166,9,1,Solne Durand,28,France,GK,Montpellier,15,0
+167,9,2,Malle Lakrar,23,France,DF,Lyon,8,0
+168,9,3,Wendie Renard (captain),33,France,DF,Paris Saint-Germain,16,1
+169,9,4,Laurina Fazer,19,France,MF,Paris Saint-Germain,19,3
+170,9,5,lisa De Almeida,25,France,DF,Real Madrid,18,1
+171,9,6,Sandie Toletti,28,France,MF,Paris Saint-Germain,4,0
+172,9,7,Sakina Karchaoui,27,France,DF,Paris Saint-Germain,11,0
+173,9,8,Grace Geyoro,26,France,MF,Lyon,10,4
+174,9,9,Eugnie Le Sommer,34,France,FW,Lyon,19,9
+175,9,10,Amel Majri,30,France,MF,Paris Saint-Germain,12,0
+176,9,11,Kadidiatou Diani,28,France,FW,Paris FC,13,0
+177,9,12,Clara Mato,25,France,FW,Lyon,2,1
+178,9,13,Selma Bacha,22,France,DF,Manchester United,3,0
+179,9,14,Assatou Tounkara,28,France,DF,Aston Villa,5,0
+180,9,15,Kenza Dali,31,France,MF,Juventus,9,0
+181,9,16,Pauline Peyraud-Magnin,31,France,GK,Fleury,10,0
+182,9,17,La Le Garrec,30,France,MF,West Ham United,10,2
+183,9,18,Viviane Asseyi,29,France,FW,Real Madrid,14,8
+184,9,19,Naomie Feller,21,France,FW,Manchester United,7,1
+185,9,20,Estelle Cascarino,26,France,DF,Paris Saint-Germain,7,0
+186,9,21,Constance Picaud,25,France,GK,Chelsea,4,0
+187,9,22,éve Prisset,28,France,DF,Lyon,11,1
+188,9,23,Vicki Bcho,19,France,FW,VfL Wolfsburg,40,0
+189,10,1,Merle Frohms,28,Germany,GK,1899 Hoffenheim,10,0
+190,10,2,Chantal Hagel,25,Germany,MF,VfL Wolfsburg,58,5
+191,10,3,Kathrin Hendrich,31,Germany,DF,Eintracht Frankfurt,27,1
+192,10,4,Sophia Kleinherne,23,Germany,DF,Bayern Munich,29,3
+193,10,5,Marina Hegering,33,Germany,DF,VfL Wolfsburg,38,3
+194,10,6,Lena Oberdorf,21,Germany,MF,Bayern Munich,47,31
+195,10,7,Lea Schller,25,Germany,FW,Bayern Munich,22,4
+196,10,8,Sydney Lohmann,23,Germany,MF,VfL Wolfsburg,80,14
+197,10,9,Svenja Huth,32,Germany,FW,Eintracht Frankfurt,20,12
+198,10,10,Laura Freigang,25,Germany,FW,VfL Wolfsburg,128,62
+199,10,11,Alexandra Popp (captain),32,Germany,FW,Chelsea,6,0
+200,10,12,Ann-Katrin Berger,32,Germany,GK,Lyon,97,17
+201,10,13,Sara Dbritz,28,Germany,MF,VfL Wolfsburg,29,1
+202,10,14,Lena Lattwein,23,Germany,MF,Eintracht Frankfurt,17,2
+203,10,15,Sjoeke Nsken,22,Germany,DF,Eintracht Frankfurt,16,1
+204,10,16,Nicole Anyomi,23,Germany,FW,VfL Wolfsburg,33,4
+205,10,17,Felicitas Rauch,27,Germany,DF,Chelsea,78,13
+206,10,18,Melanie Leupolz,29,Germany,MF,Bayern Munich,35,14
+207,10,19,Klara Bhl,22,Germany,FW,Bayern Munich,72,22
+208,10,20,Lina Magull,28,Germany,MF,Eintracht Frankfurt,0,0
+209,10,21,Stina Johannes,23,Germany,GK,VfL Wolfsburg,32,7
+210,10,22,Jule Brand,20,Germany,MF,Eintracht Frankfurt,45,1
+211,10,23,Sara Doorsoun,31,Germany,DF,AC Milan,48,0
+212,11,1,Laura Giuliani,30,Italy,GK,Fiorentina,0,0
+213,11,2,Emma Severini,20,Italy,MF,Sassuolo,6,0
+214,11,3,Benedetta Orsi,23,Italy,DF,Roma,12,0
+215,11,4,Lucia Di Guglielmo,26,Italy,DF,Roma,87,4
+216,11,5,Elena Linari,29,Italy,DF,Roma,66,8
+217,11,6,Manuela Giugliano,25,Italy,MF,Juventus,13,1
+218,11,7,Sofia Cantore,23,Italy,FW,Juventus,90,30
+219,11,8,Barbara Bonansea,32,Italy,FW,Roma,62,22
+220,11,9,Valentina Giacinti,29,Italy,FW,Juventus,103,53
+221,11,10,Cristiana Girelli (captain),33,Italy,FW,Roma,15,0
+222,11,11,Benedetta Glionna,23,Italy,FW,Fiorentina,1,0
+223,11,12,Rachele Baldi,28,Italy,GK,Roma,85,3
+224,11,13,Elisa Bartoli,32,Italy,DF,Como,1,0
+225,11,14,Chiara Beccari,18,Italy,FW,Roma,20,1
+226,11,15,Annamaria Serturini,25,Italy,FW,Barcelona,0,0
+227,11,16,Giulia Dragoni,16,Italy,MF,Juventus,49,1
+228,11,17,Lisa Boattin,26,Italy,DF,Juventus,31,10
+229,11,18,Arianna Caruso,23,Italy,MF,Juventus,19,0
+230,11,19,Martina Lenzini,24,Italy,DF,Roma,9,1
+231,11,20,Giada Greggi,23,Italy,MF,Juventus,75,14
+232,11,21,Valentina Cernoia,32,Italy,MF,Inter Milan,6,0
+233,11,22,Francesca Durante,26,Italy,GK,Juventus,44,2
+234,11,23,Cecilia Salvai,29,Italy,DF,Sparta Prague,12,0
+235,12,1,Sydney Schneider,23,Jamaica,GK,Concorde Fire,28,0
+236,12,2,Solai Washington,17,Jamaica,MF,Hearts,14,1
+237,12,3,Vyan Sampson,27,Jamaica,DF,Fleury,90,11
+238,12,4,Chantelle Swaby,24,Jamaica,DF,Orlando Pride,46,0
+239,12,5,Konya Plummer,25,Jamaica,DF,Houston Dash,46,16
+240,12,6,Havana Solaun,30,Jamaica,MF,Ohio State Buckeyes,22,4
+241,12,7,Peyton McNamara,21,Jamaica,MF,Tottenham Hotspur,54,19
+242,12,8,Drew Spence,30,Jamaica,MF,Tennessee Volunteers,35,23
+243,12,9,Kameron Simmonds,19,Jamaica,FW,Florida State Seminoles,97,48
+244,12,10,Jody Brown,21,Jamaica,FW,Manchester City,100,27
+245,12,11,Khadija Shaw (captain),26,Jamaica,FW,Notre Dame Fighting Irish,7,0
+246,12,12,Kiki Van Zanten,21,Jamaica,FW,Tottenham Hotspur,2,0
+247,12,13,Rebecca Spencer,32,Jamaica,GK,Issy,3,1
+248,12,14,Deneisha Blackwood,26,Jamaica,DF,Ferencvros,8,2
+249,12,15,Tiffany Cameron,31,Jamaica,FW,Crystal Palace,2,0
+250,12,16,Paige Bailey-Gayle,21,Jamaica,FW,Paris Saint-Germain,26,11
+251,12,17,Allyson Swaby,26,Jamaica,DF,Levante Las Planas,6,5
+252,12,18,Trudi Carter,28,Jamaica,MF,Houston Dash,22,1
+253,12,19,Tiernny Wiltshire,25,Jamaica,DF,London City Lionesses,8,0
+254,12,20,Atlanta Primus,26,Jamaica,MF,Chicago Red Stars,10,0
+255,12,21,Cheyna Matthews,29,Jamaica,FW,Rangers,25,6
+256,12,22,Kayla McKenna,26,Jamaica,FW,Washington State Cougars,0,0
+257,12,23,Liya Brooks,18,Jamaica,GK,INAC Kobe Leonessa,90,0
+258,13,1,Ayaka Yamashita,27,Japan,GK,West Ham United,24,3
+259,13,2,Risa Shimizu,27,Japan,DF,Roma,29,0
+260,13,3,Moeka Minami,24,Japan,DF,Bayern Munich,15,0
+261,13,4,Saki Kumagai (captain),32,Japan,DF,INAC Kobe Leonessa,157,3
+262,13,5,Shiori Miyake,27,Japan,DF,Portland Thorns,52,15
+263,13,6,Hina Sugita,26,Japan,MF,MyNavi Sendai,3,0
+264,13,7,Hinata Miyazawa,23,Japan,MF,Urawa Reds,118,20
+265,13,8,Hikaru Naomoto,29,Japan,MF,Tokyo Verdy Beleza,0,0
+266,13,9,Riko Ueki,23,Japan,FW,Liverpool,128,27
+267,13,10,F_ka Nagano,24,Japan,MF,INAC Kobe Leonessa,29,12
+268,13,11,Mina Tanaka,29,Japan,FW,Urawa Reds,24,1
+269,13,12,Hana Takahashi,23,Japan,DF,Angel City,206,121
+270,13,13,Jun End_,23,Japan,MF,Manchester City,74,1
+271,13,14,Yui Hasegawa,26,Japan,MF,Tokyo Verdy Beleza,199,63
+272,13,15,Aoba Fujino,19,Japan,MF,West Ham United,88,24
+273,13,16,Honoka Hayashi,25,Japan,MF,Urawa Reds,44,3
+274,13,17,Kiko Seike,26,Japan,DF,Tokyo Verdy Beleza,14,0
+275,13,18,Momoko Tanaka,23,Japan,GK,INAC Kobe Leonessa,131,24
+276,13,19,Miyabi Moriya,26,Japan,DF,Hammarby IF,17,2
+277,13,20,Maika Hamano,19,Japan,FW,Albirex Niigata,1,0
+278,13,21,Chika Hirao,26,Japan,GK,JEF United Chiba,51,7
+279,13,22,Remina Chiba,24,Japan,FW,Urawa Reds,28,1
+280,13,23,Rion Ishikawa,20,Japan,DF,BK Hcken,84,0
+281,14,1,Yoon Young-geul,35,South Korea,GK,Suwon FC,163,15
+282,14,2,Choo Hyo-joo,22,South Korea,DF,Incheon Hyundai Steel,22,0
+283,14,3,Hong Hye-ji,26,South Korea,DF,Suwon FC,38,3
+284,14,4,Shim Seo-yeon,34,South Korea,DF,Suwon FC,6,0
+285,14,5,Kim Yun-ji,34,South Korea,MF,Incheon Hyundai Steel,20,0
+286,14,6,Lim Seon-joo,32,South Korea,DF,Incheon Hyundai Steel,154,2
+287,14,7,Son Hwa-yeon,26,South Korea,FW,Tottenham Hotspur,31,2
+288,14,8,Cho So-hyun,35,South Korea,MF,Brighton & Hove Albion,26,2
+289,14,9,Lee Geum-min,29,South Korea,MF,Suwon FC,129,15
+290,14,10,Ji So-yun,32,South Korea,MF,Incheon Hyundai Steel,45,2
+291,14,11,Choe Yu-ri,28,South Korea,FW,Suwon FC,145,13
+292,14,12,Moon Mi-ra,31,South Korea,FW,Seoul WFC,90,4
+293,14,13,Park Eun-sun,36,South Korea,FW,Suwon FC,94,3
+294,14,14,Jeon Eun-ha,30,South Korea,MF,Hwacheon KSPO,43,2
+295,14,15,Chun Ga-ram,20,South Korea,MF,Incheon Hyundai Steel,14,2
+296,14,16,Jang Sel-gi,29,South Korea,DF,Madrid CFF,115,28
+297,14,17,Lee Young-ju,31,South Korea,DF,Incheon Hyundai Steel,17,2
+298,14,18,Kim Jung-mi,38,South Korea,GK,Players Development Academy,19,0
+299,14,19,Casey Phair,16,South Korea,FW,Incheon Hyundai Steel,9,0
+300,14,20,Kim Hye-ri (captain),33,South Korea,DF,Seoul WFC,16,0
+301,14,21,Ryu Ji-soo,25,South Korea,GK,Uiduk University,4,0
+302,14,22,Bae Ye-bin,18,South Korea,MF,Incheon Hyundai Steel,10,0
+303,14,23,Kang Chae-rim,25,South Korea,FW,Twente,NA,NA
+304,15,1,Daphne van Domselaar,23,Netherlands,GK,VfL Wolfsburg,11,0
+305,15,2,Lynn Wilms,22,Netherlands,DF,Inter Milan,59,2
+306,15,3,Stefanie van der Gragt,30,Netherlands,DF,AC Milan,22,0
+307,15,4,Aniek Nouwen,24,Netherlands,DF,Atltico Madrid,107,3
+308,15,5,Merel van Dongen,30,Netherlands,DF,VfL Wolfsburg,14,4
+309,15,6,Jill Roord,26,Netherlands,MF,Juventus,23,1
+310,15,7,Lineth Beerensteyn,26,Netherlands,FW,Ajax,41,30
+311,15,8,Sherida Spitse (captain),33,Netherlands,MF,Everton,38,23
+312,15,9,Katja Snoeijs,26,Netherlands,FW,Lyon,10,1
+313,15,10,Danille van de Donk,31,Netherlands,MF,Paris Saint-Germain,12,2
+314,15,11,Lieke Martens,30,Netherlands,FW,Bayer Leverkusen,18,6
+315,15,12,Jill Baijings,22,Netherlands,MF,Twente,3,0
+316,15,13,Renate Jansen,32,Netherlands,FW,Paris Saint-Germain,8,0
+317,15,14,Jackie Groenen,28,Netherlands,MF,Twente,26,9
+318,15,15,Caitlin Dijkstra,24,Netherlands,DF,Ajax,19,0
+319,15,16,Lize Kop,25,Netherlands,GK,Arsenal,34,7
+320,15,17,Victoria Pelova,24,Netherlands,MF,Manchester City,12,0
+321,15,18,Kerstin Casparij,22,Netherlands,MF,Twente,6,1
+322,15,19,Wieke Kaptein,17,Netherlands,MF,VfL Wolfsburg,7,0
+323,15,20,Dominique Janssen,28,Netherlands,DF,Lyon,9,3
+324,15,21,Damaris Egurrola,23,Netherlands,MF,PSV Eindhoven,21,1
+325,15,22,Esmee Brugts,19,Netherlands,FW,Feyenoord,1,0
+326,15,23,Jacintha Weimar,25,Netherlands,GK,IFK NorrkÃ¶ping,44,0
+327,16,1,Erin Nayler,31,New Zealand,GK,Tottenham Hotspur,28,1
+328,16,2,Ria Percival (vice-captain),33,New Zealand,MF,Melbourne Victory,4,1
+329,16,3,Claudia Bunge,23,New Zealand,DF,Leicester City,27,1
+330,16,4,CJ Bott,28,New Zealand,DF,Wellington Phoenix,22,4
+331,16,5,Michaela Foster,24,New Zealand,DF,Western Sydney Wanderers,165,20
+332,16,6,Malia Steinmetz,24,New Zealand,MF,Angel City,59,6
+333,16,7,Ali Riley (captain),35,New Zealand,DF,HB K¿ge,60,2
+334,16,8,Daisy Cleverley,26,New Zealand,MF,Arizona State Sun Devils,38,6
+335,16,9,Gabi Rennie,22,New Zealand,FW,Christchurch United,98,44
+336,16,10,Annalie Longo,32,New Zealand,MF,Celtic,80,17
+337,16,11,Olivia Chance,29,New Zealand,MF,Wellington Phoenix,7,0
+338,16,12,Betsy Hassett,32,New Zealand,MF,Brighton & Hove Albion,7,0
+339,16,13,Rebekah Stott,30,New Zealand,DF,Melbourne City,76,43
+340,16,14,Katie Bowen,29,New Zealand,DF,Wellington Phoenix,45,3
+341,16,15,Paige Satchell,25,New Zealand,FW,Ãland United,9,0
+342,16,16,Jacqui Hand,24,New Zealand,FW,Melbourne City,29,3
+343,16,17,Hannah Wilkinson,31,New Zealand,FW,Canberra United,65,11
+344,16,18,Grace Jale,24,New Zealand,FW,Perth Glory,5,0
+345,16,19,Elizabeth Anton,24,New Zealand,DF,Brisbane Roar,97,16
+346,16,20,Indiah-Paige Riley,21,New Zealand,FW,Rangers,8,0
+347,16,21,Victoria Esson,32,New Zealand,GK,Wellington Phoenix,8,5
+348,16,22,Milly Clegg,17,New Zealand,FW,Aston Villa,9,0
+349,16,23,Anna Leat,22,New Zealand,GK,Hakkarigc Spor,20,0
+350,17,1,Tochukwu Oluehi,36,Nigeria,GK,unattached,38,0
+351,17,2,Ashleigh Plumptre,25,Nigeria,DF,Alavs,21,0
+352,17,3,Osinachi Ohale,31,Nigeria,DF,BeÅiktaÅ,112,16
+353,17,4,Glory Ogbonna,24,Nigeria,DF,Abia Angels,127,23
+354,17,5,Onome Ebi (captain),40,Nigeria,DF,NJ/NY Gotham FC,191,13
+355,17,6,Ifeoma Onumonu,29,Nigeria,FW,Sevilla,100,9
+356,17,7,Toni Payne,28,Nigeria,MF,Barcelona,136,54
+357,17,8,Asisat Oshoala,28,Nigeria,FW,Wuhan Jianghan University,66,8
+358,17,9,Desire Oparanozie,29,Nigeria,FW,Benfica,65,3
+359,17,10,Christy Ucheibe,22,Nigeria,MF,Granadilla Tenerife,81,17
+360,17,11,Gift Monday,21,Nigeria,FW,Racing Louisville,30,0
+361,17,12,Uchenna Kanu,26,Nigeria,FW,Rivers Angels,128,58
+362,17,13,Deborah Abiodun,19,Nigeria,MF,Reims,20,0
+363,17,14,Oluwatosin Demehin,21,Nigeria,DF,Atltico Madrid,16,1
+364,17,15,Rasheedat Ajibade,23,Nigeria,MF,Paris FC,62,4
+365,17,16,Chiamaka Nnadozie,22,Nigeria,GK,CSKA Moscow,48,1
+366,17,17,Francisca Ordega,29,Nigeria,FW,RosengÃ¥rd,24,4
+367,17,18,Halimatu Ayinde,28,Nigeria,MF,Florida State Seminoles,26,4
+368,17,19,Jennifer Echegini,22,Nigeria,MF,Reims,39,2
+369,17,20,Rofiat Imuran,19,Nigeria,DF,Saint-tienne,4,0
+370,17,21,Esther Okoronkwo,26,Nigeria,FW,Houston Dash,33,11
+371,17,22,Michelle Alozie,26,Nigeria,DF,Saint-tienne,28,2
+372,17,23,Yewande Balogun,33,Nigeria,GK,Lillestr¿m,27,0
+373,18,1,Cecilie Fiskerstrand,27,Norway,GK,Inter Milan,30,3
+374,18,2,Anja S¿nstevold,31,Norway,DF,Rosenborg,38,1
+375,18,3,Sara H¿rte,22,Norway,DF,Bayern Munich,76,0
+376,18,4,Tuva Hansen,25,Norway,DF,Brighton & Hove Albion,8,0
+377,18,5,Guro Bergsvand,29,Norway,DF,Chelsea,103,6
+378,18,6,Maren Mjelde,33,Norway,DF,Barcelona,48,8
+379,18,7,Ingrid Syrstad Engen,25,Norway,MF,Manchester United,144,25
+380,18,8,Vilde B¿e Risa,28,Norway,MF,VÃ¥lerenga,80,26
+381,18,9,Karina S¾vik,27,Norway,FW,Barcelona,144,66
+382,18,10,Caroline Graham Hansen,28,Norway,MF,Chelsea,50,9
+383,18,11,Guro Reiten,28,Norway,MF,VÃ¥lerenga,29,16
+384,18,12,Guro Pettersen,31,Norway,GK,VÃ¥lerenga,42,20
+385,18,13,Thea Bjelde,23,Norway,MF,Lyon,13,0
+386,18,14,Ada Hegerberg,28,Norway,FW,Reading,4,0
+387,18,15,Amalie Eikeland,27,Norway,MF,Rosenborg,89,12
+388,18,16,Mathilde Harviken,21,Norway,DF,BK Hcken,55,2
+389,18,17,Julie Blakstad,21,Norway,FW,Arsenal,135,0
+390,18,18,Frida Maanum,24,Norway,MF,Brann,0,0
+391,18,19,Marit Bratberg Lund,25,Norway,DF,Roma,111,1
+392,18,20,Emilie Haavi,31,Norway,MF,Rosenborg,0,0
+393,18,21,Anna J¿sendal,22,Norway,FW,Roma,2,0
+394,18,22,Sophie Romn Haug,24,Norway,FW,Brann,24,6
+395,18,23,Aurora Mikalsen,27,Norway,GK,Glasgow City LFC (SCO),10,0
+396,19,1,Lee ALEXANDER,28,Scotland,GK,Manchester United WFC (ENG),17,0
+397,19,2,Kirsty SMITH,25,Scotland,DF,Glasgow City LFC (SCO),2,0
+398,19,3,Nicola DOCHERTY,27,Scotland,DF,Utah Royals FC (USA),10,1
+399,19,4,Rachel CORSIE,30,Scotland,DF,Manchester City WFC (ENG),129,3
+400,19,5,Jenny BEATTIE,28,Scotland,DF,Glasgow City LFC (SCO),31,3
+401,19,6,Jo LOVE,34,Scotland,MF,Glasgow City LFC (SCO),116,38
+402,19,7,Hayley LAUDER,29,Scotland,DF,Arsenal WFC (ENG),31,3
+403,19,8,Kim LITTLE,29,Scotland,MF,Manchester City WFC (ENG),0,0
+404,19,9,Caroline WEIR,24,Scotland,MF,Glasgow City LFC (SCO),161,24
+405,19,10,Leanne CRICHTON,32,Scotland,MF,Arsenal WFC (ENG),152,58
+406,19,11,Lisa EVANS,27,Scotland,FW,Vittsjo GIK (SWE),4,0
+407,19,12,Shannon LYNN,34,Scotland,GK,West Ham United WFC (ENG),29,2
+408,19,13,Jane ROSS,30,Scotland,FW,Birmingham City WFC (ENG),111,5
+409,19,14,Chloe ARTHUR,24,Scotland,DF,Reading FCW (ENG),4,0
+410,19,15,Sophie HOWARD,26,Scotland,DF,Liverpool FCW (ENG),16,0
+411,19,16,Christie MURRAY,29,Scotland,MF,Hibernian LFC (SCO),13,1
+412,19,17,Joelle MURRAY,33,Scotland,DF,Manchester City WFC (ENG),58,12
+413,19,18,Claire EMSLIE,25,Scotland,FW,ACF Fiorentina (ITA),14,2
+414,19,19,Lana CLELLAND,26,Scotland,FW,FC Rosengard (SWE),42,7
+415,19,20,Fiona BROWN,24,Scotland,FW,Hibernian LFC (SCO),121,13
+416,19,21,Jenna FIFE,21,Scotland,GK,Chelsea FCW (ENG),0,0
+417,19,22,Erin CUTHBERT,30,Scotland,FW,Manchester United WFC (ENG),29,0
+418,19,23,Lizzie ARNOT,21,Scotland,MF,JVW,165,0
+419,20,1,Kaylin Swart,28,South Africa,GK,Mamelodi Sundowns,43,0
+420,20,2,Lebogang Ramalepe,31,South Africa,DF,UWC,117,9
+421,20,3,Bongeka Gamede,24,South Africa,DF,Eibar,29,0
+422,20,4,Noko Matlou,37,South Africa,DF,UWC,182,23
+423,20,5,Fikile Magama,21,South Africa,DF,Tigres UANL,55,5
+424,20,6,Noxolo Cesane,22,South Africa,FW,Mamelodi Sundowns,7,2
+425,20,7,Karabo Dhlamini,21,South Africa,DF,Sejong Sportstoto,25,4
+426,20,8,Hildah Magaia,28,South Africa,FW,JVW,134,35
+427,20,9,Gabriela Salgado,25,South Africa,FW,Glasgow City,107,19
+428,20,10,Linda Motlhalo,25,South Africa,MF,Racing Louisville,50,12
+429,20,11,Thembi Kgatlana,27,South Africa,FW,Monterrey,0,0
+430,20,12,Jermaine Seoposenwe,29,South Africa,FW,Mamelodi Sundowns,29,2
+431,20,13,Bambanani Mbane,33,South Africa,DF,Mamelodi Sundowns,6,0
+432,20,14,Tiisetso Makhubela,26,South Africa,DF,Sassuolo,13,2
+433,20,15,Refiloe Jane,30,South Africa,MF,Mamelodi Sundowns,10,0
+434,20,16,Andile Dlamini,30,South Africa,GK,Mamelodi Sundowns,200,27
+435,20,17,Melinda Kgadiete,30,South Africa,FW,UWC,41,9
+436,20,18,Sibulele Holweni,22,South Africa,MF,UWC,12,1
+437,20,19,Kholosa Biyana,28,South Africa,MF,JVW,22,6
+438,20,20,Robyn Moodaly,29,South Africa,MF,Royal AM,2,0
+439,20,21,Kebotseng Moletsane,28,South Africa,GK,TS Galaxy,74,9
+440,20,22,Nomvula Kgoale,27,South Africa,MF,University of Pretoria,68,3
+441,20,23,Wendy Shongwe,20,South Africa,FW,Real Madrid,142,0
+442,21,1,Misa Rodrguez,23,Spain,GK,Manchester United,14,0
+443,21,2,Ona Batlle,24,Spain,DF,Real Madrid,25,1
+444,21,3,Teresa Abelleira,23,Spain,MF,Barcelona,117,3
+445,21,4,Irene Paredes,32,Spain,DF,Real Madrid,19,4
+446,21,5,Ivana Andrs (captain),29,Spain,DF,Barcelona,103,2
+447,21,6,Aitana Bonmat,25,Spain,MF,Atltico Madrid,68,9
+448,21,7,Irene Guerrero,26,Spain,MF,Barcelona,22,12
+449,21,8,Mariona Caldentey,27,Spain,FW,Real Madrid,44,0
+450,21,9,Esther Gonzlez,30,Spain,FW,Pachuca,91,4
+451,21,10,Jennifer Hermoso,33,Spain,MF,Barcelona,14,0
+452,21,11,Alexia Putellas,29,Spain,MF,Athletic Bilbao,56,27
+453,21,12,Oihane Hernndez,23,Spain,DF,Valencia,43,4
+454,21,13,Enith Saln,21,Spain,GK,Barcelona,21,6
+455,21,14,Laia Codina,23,Spain,DF,Atltico Madrid,2,0
+456,21,15,Eva Navarro,22,Spain,FW,Barcelona,50,2
+457,21,16,Mara Prez,21,Spain,MF,Levante,73,19
+458,21,17,Alba Redondo,26,Spain,FW,Barcelona,43,0
+459,21,18,Salma Paralluelo,19,Spain,FW,Real Madrid,115,75
+460,21,19,Olga Carmona,23,Spain,DF,Real Madrid,57,15
+461,21,20,Roco Glvez,26,Spain,DF,Real Madrid,59,17
+462,21,21,Claudia Zornoza,32,Spain,MF,Real Madrid,2,0
+463,21,22,Athenea del Castillo,22,Spain,FW,Barcelona,3,0
+464,21,23,Cata Coll,22,Spain,GK,Chelsea,69,0
+465,22,1,Ze_ira Mu_ovi_,27,Sweden,GK,Hammarby IF,25,0
+466,22,2,Jonna Andersson,30,Sweden,DF,Juventus,21,1
+467,22,3,Linda Sembrant,36,Sweden,DF,LinkÃ¶ping FC,82,8
+468,22,4,Stina Lennartsson,26,Sweden,DF,BK Hcken,32,1
+469,22,5,Anna Sandberg,20,Sweden,DF,Chelsea,140,7
+470,22,6,Magdalena Eriksson,29,Sweden,DF,Hammarby IF,106,21
+471,22,7,Madelen Janogy,27,Sweden,FW,Arsenal,14,1
+472,22,8,Lina Hurtig,27,Sweden,FW,AC Milan,134,58
+473,22,9,Kosovare Asllani,33,Sweden,MF,San Diego Wave,175,115
+474,22,10,Sofia Jakobsson,33,Sweden,FW,Arsenal,43,12
+475,22,11,Stina Blackstenius,27,Sweden,FW,BK Hcken,16,0
+476,22,12,Jennifer Falk,30,Sweden,GK,Paris Saint-Germain,8,0
+477,22,13,Amanda Ilestedt,30,Sweden,DF,Everton,10,0
+478,22,14,Nathalie BjÃ¶rn,26,Sweden,DF,VfL Wolfsburg,8,1
+479,22,15,Rebecka Blomqvist,25,Sweden,FW,Manchester City,110,37
+480,22,16,Filippa Angeldahl,26,Sweden,MF,RosengÃ¥rd,28,5
+481,22,17,Caroline Seger (captain),38,Sweden,MF,Barcelona,43,6
+482,22,18,Fridolina RolfÃ¶,29,Sweden,FW,Chelsea,42,6
+483,22,19,Johanna Rytting Kaneryd,26,Sweden,MF,Everton,20,1
+484,22,20,Hanna Bennison,20,Sweden,MF,Ãrebro,33,5
+485,22,21,Tove Enblom,28,Sweden,GK,RosengÃ¥rd,0,0
+486,22,22,Olivia Schough,32,Sweden,MF,BK Hcken,20,3
+487,22,23,Elin Rubensson,30,Sweden,MF,Kopparbergs/Göteborg FC (SWE),68,3
+488,23,1,Waraporn BOONSING,29,Thailand,GK,Bundit Asia (THA),142,0
+489,23,2,Kanjanaporn SAENKHUN,23,Thailand,DF,Bundit Asia (THA),14,0
+490,23,3,Natthakarn CHINWONG,27,Thailand,DF,Bundit Asia (THA),25,1
+491,23,4,Duangnapa SRITALA,33,Thailand,DF,Bangkok (THA),117,3
+492,23,5,Ainon PHANCHA,27,Thailand,DF,Chonburi FC (THA),19,4
+493,23,6,Pikul KHUEANPET,31,Thailand,MF,Bundit Asia (THA),103,2
+494,23,7,Silawan INTAMEE,25,Thailand,MF,Chonburi FC (THA),68,9
+495,23,8,Miranda NILD,22,Thailand,FW,UC Berkeley (USA),22,12
+496,23,9,Warunee PHETWISET,28,Thailand,DF,Chonburi FC (THA),44,0
+497,23,10,Sunisa SRANGTHAISONG,31,Thailand,DF,Bundit Asia (THA),91,4
+498,23,11,Sudarat CHUCHUEN,22,Thailand,DF,Srisaket (THA),14,0
+499,23,12,Rattikan THONGSOMBUT,28,Thailand,FW,Bundit Asia (THA),56,27
+500,23,13,Orathai SRIMANEE,22,Thailand,MF,Bundit Asia (THA),43,4
+501,23,14,Saowalak PENGNGAM,22,Thailand,FW,Chonburi FC (THA),21,6
+502,23,15,Orapin WAENNGOEN,28,Thailand,MF,Bundit Asia (THA),2,0
+503,23,16,Khwanrudi SAENGCHAN,26,Thailand,MF,Bundit Asia (THA),50,2
+504,23,17,Taneekarn DANGDA,26,Thailand,FW,Bangkok (THA),73,19
+505,23,18,Sukanya CHOR CHAROENYING,31,Thailand,GK,Air Force Central FC (THA),43,0
+506,23,19,Pitsamai SORNSAI,30,Thailand,FW,Chonburi FC (THA),115,75
+507,23,20,Wilaiporn BOOTHDUANG,32,Thailand,MF,Bangkok (THA),57,15
+508,23,21,Kanjana SUNG-NGOEN,33,Thailand,MF,Bangkok (THA),59,17
+509,23,22,Tiffany SORNPAO,21,Thailand,GK,Kennesaw State Owls (USA),2,0
+510,23,23,Phonphirun PHILAWAN,20,Thailand,DF,Bundit Asia (THA),3,0
+511,24,1,Alyssa Naeher,35,USA,GK,Chicago Red Stars,53,0
+512,24,2,Ashley Sanchez,24,USA,MF,Washington Spirit,56,17
+513,24,3,Sofia Huerta,30,USA,DF,OL Reign,56,14
+514,24,4,Naomi Girma,23,USA,DF,San Diego Wave,164,0
+515,24,5,Kelley O'Hara,34,USA,DF,NJ/NY Gotham FC,124,2
+516,24,6,Lynn Williams,30,USA,FW,NJ/NY Gotham FC,83,6
+517,24,7,Alyssa Thompson,18,USA,FW,Angel City,47,0
+518,24,8,Julie Ertz,31,USA,MF,Angel City,88,19
+519,24,9,Savannah DeMelo,25,USA,MF,Racing Louisville,74,10
+520,24,10,Lindsey Horan (co-captain),29,USA,MF,Lyon,281,113
+521,24,11,Sophia Smith,22,USA,FW,Portland Thorns,103,1
+522,24,12,Alana Cook,26,USA,DF,OL Reign,21,1
+523,24,13,Alex Morgan (co-captain),34,USA,FW,San Diego Wave,169,107
+524,24,14,Emily Sonnett,29,USA,DF,OL Reign,34,0
+525,24,15,Megan Rapinoe,38,USA,FW,OL Reign,158,50
+526,24,16,Rose Lavelle,28,USA,MF,OL Reign,33,10
+527,24,17,Andi Sullivan,27,USA,MF,Washington Spirit,156,30
+528,24,18,Casey Murphy,27,USA,GK,North Carolina Courage,21,0
+529,24,19,Crystal Dunn,31,USA,DF,Portland Thorns,91,24
+530,24,20,Trinity Rodman,21,USA,FW,Washington Spirit,46,6
+531,24,21,Aubrey Kingsbury,31,USA,GK,Washington Spirit,1,0
+532,24,22,Kristie Mewis,32,USA,MF,NJ/NY Gotham FC,8,2
+533,24,23,Emily Fox,25,USA,DF,North Carolina Courage,123,49

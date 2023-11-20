@@ -1,0 +1,53 @@
+key_id,year,home_team_name,away_team_name,city_name,attendance,stage_name,home_team_score,away_team_score,result,referee,dates
+1,2019,France,South Korea,Paris,45261,group stage,4,0,France,Claudia Umpiérrez,2019-06-07
+2,2019,Germany,China,Rennes,15283,group stage,1,0,Germany,Marie-Soleil Beaudoin,2019-06-08
+3,2019,Spain,South Africa,Le Havre,12044,group stage,3,1,Spain,Maria Carvajal,2019-06-08
+4,2019,Norway,Nigeria,Reims,11058,group stage,3,0,Norway,Kate Jacewicz,2019-06-08
+5,2019,Australia,Italy,Valenciennes,15380,group stage,1,2,Italy,Melissa Borjas,2019-06-09
+6,2019,Brazil,Jamaica,Grenoble,17668,group stage,3,0,Brazil,Riem Hussein,2019-06-09
+7,2019,England,Scotland,Nice,13188,group stage,2,1,England,Jana Adamkova,2019-06-09
+8,2019,Argentina,Japan,Paris,25055,group stage,0,0,Draw,Stéphanie Frappart,2019-06-10
+9,2019,Canada,Cameroon,Montpellier,10710,group stage,1,0,Canada,Ri Hyang Ok,2019-06-10
+10,2019,New Zealand,Netherlands,Le Havre,10654,group stage,0,1,Netherlands,Edina Alves Batista,2019-06-11
+11,2019,Chile,Sweden,Rennes,15875,group stage,0,2,Sweden,Lucila Venegas,2019-06-11
+12,2019,USA,Thailand,Reims,18591,group stage,13,0,USA,Jeanne Niang,2019-06-11
+13,2019,Nigeria,South Korea,Grenoble,11252,group stage,2,0,Nigeria,Anastasia Pustovoitov,2019-06-12
+14,2019,Germany,Spain,Valenciennes,20761,group stage,1,0,Germany,Kateryna Monzul,2019-06-12
+15,2019,France,Norway,Nice,34872,group stage,2,1,France,Bibiana Steinhaus,2019-06-12
+16,2019,Australia,Brazil,Montpellier,17032,group stage,3,2,Australia,Esther Staubli,2019-06-13
+17,2019,South Africa,China,Paris,20011,group stage,0,1,China,Katalin Kulcsár,2019-06-13
+18,2019,Japan,Scotland,Rennes,13201,group stage,2,1,Japan,Lidya Tafesse,2019-06-14
+19,2019,Jamaica,Italy,Reims,12016,group stage,0,5,Italy,,2019-06-14
+20,2019,England,Argentina,Le Havre,20294,group stage,1,0,England,Qin Liang,2019-06-14
+21,2019,Netherlands,Cameroon,Valenciennes,22423,group stage,3,1,Netherlands,Casey Reibelt,2019-06-15
+22,2019,Canada,New Zealand,Grenoble,14856,group stage,2,0,Canada,Yoshimi Yamashita,2019-06-15
+23,2019,Sweden,Thailand,Nice,9354,group stage,5,1,Sweden,Salma Mukansanga,2019-06-16
+24,2019,USA,Chile,Paris,45594,group stage,3,0,USA,Riem Hussein,2019-06-16
+25,2019,China,Spain,Le Havre,15502,group stage,0,0,Draw,Sandra Braz,2019-06-17
+26,2019,South Africa,Germany,Montpellier,11814,group stage,0,4,Germany,Edina Alves Batista,2019-06-17
+27,2019,Nigeria,France,Rennes,13034,group stage,0,1,France,Marie-Soleil Beaudoin,2019-06-17
+28,2019,South Korea,Norway,Reims,28267,group stage,1,2,Norway,Melissa Borjas,2019-06-17
+29,2019,Italy,Brazil,Valenciennes,21669,group stage,0,1,Brazil,Lucila Venegas,2019-06-18
+30,2019,Jamaica,Australia,Grenoble,17402,group stage,1,4,Australia,Katalin Kulcsár,2019-06-18
+31,2019,Japan,England,Nice,14319,group stage,0,2,England,Claudia Umpiérrez,2019-06-19
+32,2019,Scotland,Argentina,Paris,28205,group stage,3,3,Draw,Ri Hyang Ok,2019-06-19
+33,2019,Cameroon,New Zealand,Montpellier,19277,group stage,2,1,Cameroon,Stéphanie Frappart,2019-06-20
+34,2019,Netherlands,Canada,Reims,8009,group stage,2,1,Netherlands,Kateryna Monzul,2019-06-20
+35,2019,Sweden,USA,Le Havre,22418,group stage,0,2,USA,Anastasia Pustovoitova,2019-06-20
+36,2019,Thailand,Chile,Rennes,13567,group stage,0,2,Chile,Anna-Marie Keighley,2019-06-20
+37,2019,Germany,Nigeria,Grenoble,17988,round of 16,3,0,Germany,Yoshimi Yamashita,2019-06-22
+38,2019,Norway,Australia,Nice,,round of 16,1,1,Draw,Riem Hussein,2019-06-22
+39,2019,England,Cameroon,Valenciennes,20148,round of 16,3,0,England,Qin Liang,2019-06-23
+40,2019,France,Brazil,Le Havre,,round of 16,2,1,France,Marie-Soleil Beaudoin,2019-06-23
+41,2019,Spain,USA,Reims,19633,round of 16,1,2,USA,Katalin Kulcsár,2019-06-24
+42,2019,Sweden,Canada,Paris,38078,round of 16,1,0,Sweden,Kate Jacewicz,2019-06-24
+43,2019,Italy,China,Montpellier,17492,round of 16,2,0,Italy,Edina Alves Batista,2019-06-25
+44,2019,Netherlands,Japan,Rennes,21076,round of 16,2,1,Netherlands,Melissa Borjas,2019-06-25
+45,2019,Norway,England,Le Havre,21111,quarter-final,0,3,England,Lucila Venegas,2019-06-27
+46,2019,France,USA,Paris,45595,quarter-final,1,2,USA,Kateryna Monzul,2019-06-28
+47,2019,Italy,Netherlands,Valenciennes,22600,quarter-final,0,2,Netherlands,Claudia Umpiérrez,2019-06-29
+48,2019,Germany,Sweden,Rennes,25301,quarter-final,1,2,Sweden,Stéphanie Frappart,2019-06-29
+49,2019,England,USA,Lyon,53512,semi-final,1,2,USA,,2019-07-02
+50,2019,Netherlands,Sweden,Lyon,48452,semi-final,1,0,Netherlands,Marie-Soleil Beaudoin,2019-07-03
+51,2019,England,Sweden,Nice,20316,third-place match,1,2,Sweden,Anastasia Pustovoitova,2019-07-06
+52,2019,USA,Netherlands,Lyon,57900,final,2,0,USA,Stéphanie Frappart,2019-07-07
